@@ -5,9 +5,9 @@
     "branch":      "n7.1"
   },
   {
-    "repository":  "CyanogenMod/android_kernel_oneplus_msm8994",
-    "target_path": "kernel/oneplus/msm8994",
-    "branch":      "cm-14.1"
+    "repository":  "mordiford/saki-op2-kernel",
+    "target_path": "kernel/oneplus/saki",
+    "branch":      "saki-v5"
   },
   {
    "repository": "TheMuppets/proprietary_vendor_qcom_binaries",
