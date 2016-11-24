@@ -18,5 +18,9 @@
     "repository":  "AICP/proprietary_vendor_oneplus",
     "target_path": "vendor/oneplus",
     "branch":      "n7.1"
+  },
+  {
+    "repository": "CyanogenMod/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings"
   }
 ]
